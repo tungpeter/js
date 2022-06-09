@@ -1,1 +1,1 @@
-document.write("Lập Trình Web");
+Lập Trình Web
