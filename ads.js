@@ -1,5 +1,4 @@
-<html>
-<body>
+
 <h1>My First JavaScript</h1>
 <p>Here, a JavaScript changes the value of the src (source) attribute of an image.</p>
 <script>
@@ -18,5 +17,3 @@ function light(sw) {
 <button type="button" onclick="light(1)">Light On</button>
 <button type="button" onclick="light(0)">Light Off</button>
 </p>
-</body>
-</html>
