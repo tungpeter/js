@@ -1,18 +1,9 @@
+<script type='text/javascript'>
+var Banner1k= new Array()
 
-function validateEmailAddress(email) {
-var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
-return re.test(email);
-}
-function validate() {
-$("#result").text("");
-var emailaddress = $("#email").val();
-if (validateEmailAddress(emailaddress)) {
-$("#result").text(emailaddress + " is valid :)");
-$("#result").css("color", "green");
-} else {
-$("#result").text(emailaddress + " is not correct, please retry:(");
-$("#result").css("color", "red");
-}
-return false;
-}
-$("#validate").bind("click", validate);
+Banner1k[0]="<a href='http://www.kfarm.com.vn'target='_blank'><img src='https://www.ana.co.jp/www2/travel-information/lounges/seasia-lounge-414px.jpg' style='width: 98%;border-radius: 10px;margin-top: -1px;'/></a>"
+Banner1k[1]="<a href='https://www.longchimbienhoa.com/'target='_blank'><img src='https://lithaco.vn/wp-content/uploads/2021/04/pin-luu-tru-min-414x233.jpg' style='width: 98%;border-radius: 10px;margin-top: -1px;'/></a>"
+var random=Math.round(1*Math.random());
+
+document.write(Banner1k[random]);
+</script>
