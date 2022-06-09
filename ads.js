@@ -1,1 +1,3 @@
-Lập Trình Web
+function hello() {
+    alert("Hello");
+}
