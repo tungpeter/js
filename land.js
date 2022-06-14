@@ -1,6 +1,3 @@
-<marquee height="200" direction="UP" scrolldelay="5" scrollamount="5" onmouseover="this.stop()" onmouseout="this.start()"> 
-<center>
-
 <ul class=''>
 <li><a href='https://www.arobistore.com/2018/10/shop-giay-nike-tai-bien-hoa.html' target='_blank' title='Shop Giày Nike Tại Biên Hòa'><span> Shop Giày Nike Tại Biên Hòa</span></a></li>
 
@@ -1000,6 +997,3 @@
 <li><a href="https://www.congnghemavach.vn/2019/09/may-in-ma-vach-ham-tan.html" target="_blank" title="Máy in mã vạch Hàm Tân">Máy in mã vạch Hàm Tân</a></li>
 <li><a href="https://www.congnghemavach.vn/2019/09/may-in-ma-vach-phu-quy.html" target="_blank" title="Máy in mã vạch Phú Quý">Máy in mã vạch Phú Quý</a></li>
 </ul>
-
-</center>
-</marquee>
