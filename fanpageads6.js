@@ -1,0 +1,10 @@
+var Banner6k= new Array()
+Banner6k[0]="<div class='fb-like-box small--hide' data-colorscheme='light' data-header='false' data-height='300' data-href='https://www.facebook.com/arobimedia.com.seo.top.1' data-show-border='false' data-show-faces='true' data-stream='false' data-width='260' style='width:100%; !important'/>"
+Banner6k[1]="<div class='fb-like-box small--hide' data-colorscheme='light' data-header='false' data-height='300' data-href='https://www.facebook.com/longchimbienhoacity/' data-show-border='false' data-show-faces='true' data-stream='false' data-width='260' style='width:100%; !important'/>"
+Banner6k[2]="<div class='fb-like-box small--hide' data-colorscheme='light' data-header='false' data-height='300' data-href='https://www.facebook.com/nhuongquyentoantuduysmartbrain/' data-show-border='false' data-show-faces='true' data-stream='false' data-width='260' style='width:100%; !important'/>"
+Banner6k[3]="<div class='fb-like-box small--hide' data-colorscheme='light' data-header='false' data-height='300' data-href='https://www.facebook.com/LongHaiSecuritas.Since.1996/' data-show-border='false' data-show-faces='true' data-stream='false' data-width='260' style='width:100%; !important'/>"
+Banner6k[4]="<div class='fb-like-box small--hide' data-colorscheme='light' data-header='false' data-height='300' data-href='https://www.facebook.com/nhanchohang24h.kgroup.com.vn/' data-show-border='false' data-show-faces='true' data-stream='false' data-width='260' style='width:100%; !important'/>"
+Banner6k[3]="<div class='fb-like-box small--hide' data-colorscheme='light' data-header='false' data-height='300' data-href='https://www.facebook.com/kvivu.kgroup.com.vn/' data-show-border='false' data-show-faces='true' data-stream='false' data-width='260' style='width:100%; !important'/>"
+Banner6k[4]="<div class='fb-like-box small--hide' data-colorscheme='light' data-header='false' data-height='300' data-href='https://www.facebook.com/kfarm.com.vn/' data-show-border='false' data-show-faces='true' data-stream='false' data-width='260' style='width:100%; !important'/>"
+var random=Math.round(4*Math.random());
+document.write(Banner6k[random]);
