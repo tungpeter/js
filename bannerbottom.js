@@ -3,5 +3,6 @@ Banner4k[0]="<a href='https://nhuongquyentoantuduy.arobiacademy.com/'target='_bl
 Banner4k[1]="<a href='https://www.lhveston.com/'target='_blank'><img src='https://caunoinhadat.com/public/userfiles/slideshow/tuyen-dai-ly-vest.png'/></a>"
 Banner4k[2]="<a href='https://www.onghuttrevietbac.com/'target='_blank'><img src='https://lh4.googleusercontent.com/-HVoZDcAuzAA/XVy8oERHA9I/AAAAAAAAMFc/dWr-j97aAwgh0RDKlRkaJ1E_5IaYOHmLACLcBGAs/s1600/ong-hut-tre-viet-bac.jpg'/></a>"
 Banner4k[3]="<a href='https://viettinhhoa.com.vn/'target='_blank'><img src='https://viettinhhoa.com.vn/public/userfiles/banner/banner-05-2022.jpg'/></a>"
-var random=Math.round(3*Math.random());
+Banner4k[4]="<a href='https://longhaisecuritas.vn/'target='_blank'><img src='https://cdn.jsdelivr.net/gh/tungpeter/images/dich-vu-bao-ve-long-hai.png'/></a>"
+var random=Math.round(4*Math.random());
 document.write(Banner4k[random]);
