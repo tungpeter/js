@@ -5,5 +5,6 @@ Banner1k[2]="<a href='http://www.tungpeter.com/'target='_blank'><img src='https:
 Banner1k[3]="<a href='http://caunoinhadat.com/nha-dat-ban/dong-nai'target='_blank'><img src='https://lh4.googleusercontent.com/-o4PhfBADnJ4/WmybmBhiCAI/AAAAAAAAJdw/-b2puYQRxAEpkHwT-M3YGS2VArpUNBKjgCLcBGAs/s1600/banner-dan-tin.gif'/></a>"
 Banner1k[4]="<a href='https://viettinhhoa.com.vn'target='_blank'><img src='https://1.bp.blogspot.com/-0kJ21s9KC5A/XJHLMzpmMcI/AAAAAAAAKwU/3s0KuiA63rE_JkGOLjZSLGDud5KpqfwogCLcBGAs/s1600/banner-viet-tinh-hoa.png'/></a>"
 Banner1k[5]="<a href='https://unica.vn/?aff=27023'target='_blank'><img src='https://cdn.jsdelivr.net/gh/tungpeter/images/ma-coupon-kvivu-tai-unica.png'/></a>"
-var random=Math.round(5*Math.random());
+Banner1k[6]="<a href='https://www.satthepphuocdien.com/'target='_blank'><img src='https://cdn.jsdelivr.net/gh/tungpeter/images/sat-thep-phuoc-dien.png'/></a>"
+var random=Math.round(6*Math.random());
 document.write(Banner1k[random]);
